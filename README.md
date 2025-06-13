@@ -1,4 +1,4 @@
-* Franco Manca Sales Analytics Report Overview
+# Franco Manca Sales Analytics Report Overview
 Audience: Senior Stakeholders
 Purpose: Provide a snapshot of sales performance, key KPIs, and customer satisfaction to inform strategic decisions.
 
