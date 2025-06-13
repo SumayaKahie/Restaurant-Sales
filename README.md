@@ -7,6 +7,15 @@ This report presents Franco Manca’s latest sales, profit, and customer metrics
 
 ![image](https://github.com/user-attachments/assets/a8a6b28f-8fc3-4200-96fe-6d43bdebbeac)
 
+## North Star Metric
+Revenue per Customer Visit (£):
+Current: £22.35
+(Calculated as Total Sales ÷ Number of Customers)
+
+Why it matters:
+Balances growth (sales) with engagement (customers), reflecting both volume and value creation per visit.
+
+
 Key KPIs (to date)
 Metric	Actual	Target	% Complete	Variance to Target
 Sales (£M)	£1,943.9M	£2,300M	85%	-15%
@@ -18,6 +27,13 @@ While sales and profit are slightly below target, the gap is narrowing steadily.
 
 
 ![image](https://github.com/user-attachments/assets/70834a03-19a5-4a06-ab7a-6d888e2b39e2)
+
+## Key Dimensions Driving Performance
+Dimension	Insight
+Geography	London dominates (87% of total sales).
+Time (Monthly)	Consistent YoY sales growth (~9.6%).
+Product Offering	Availability (94%) rated very highly.
+Customer Experience	Hygiene (93%) strong, Service (53%) weak.
 
 Sales Trends (YoY)
 Month	2023 (£M)	2024 (£M)
